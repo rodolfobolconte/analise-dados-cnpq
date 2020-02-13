@@ -10,19 +10,19 @@ A construção da Pesquisa foi realizada utilizando a Linguagem de Programação
 
 A análise de todo o projeto foi dividida em 3 partes, sendo elas:
 
-#### 1. Análise da Quantidade Média de Bolsas por Região entre 2006 e 2015
+### 1. Análise da Quantidade Média de Bolsas por Região entre 2006 e 2015
 
 Foi elaborado um gráfico (da esquerda) de barras com a média da quantidade total de bolsas separadas pelas 5 regiões do país entre os anos de 2006 e 2015, onde o eixo X se encontra as regiões e o eixo Y, a quantidade. O gráfico da direita representa apenas a porcentagem dos valores do primeiro gráfico, porém num formato de pizza.
 
 ![Gráfico da Análise 1](https://raw.githubusercontent.com/rodolfobolconte/analise_dados_cnpq/master/graficos/analise1.png)
 
-#### 2. Análise do Número Médio de Bolsas por Região e Ano nos Respectivos Governos de Lula e Dilma
+### 2. Análise do Número Médio de Bolsas por Região e Ano nos Respectivos Governos de Lula e Dilma
 
 Essa segunda parte da análise foi elaborada pensando em uma comparação entre os Governos de Lula e Dilma (por questões dos dados disponibilizados do CNPq serem referentes a esses dois governos), para ser visto todo o desempenho dos governos em cada ano em relação ao investimento de bolsas. Os dois gráficos construídos foram no formato de barras horizontais, onde foram separados por ano (e cada ano, separado pelas regiões do país).
 
 ![Gráfico da Análise 2](https://raw.githubusercontent.com/rodolfobolconte/analise_dados_cnpq/master/graficos/analise2.png)
 
-#### 3. Análise da Quantidade Média de Bolsas por Região e Ano e a Média dos Investimentos Realizados pelo Governos Separados por Ano
+### 3. Análise da Quantidade Média de Bolsas por Região e Ano e a Média dos Investimentos Realizados pelo Governos Separados por Ano
 
 A Terceira e última parte da análise de todo o projeto foi, assim como a Segunda, mostrar um comparativo de dados. As quantidades médias de bolsas por ano analisadas no gráfico da esquerda, foram comparadas com suas respectivas médias anuais de investimentos por parte dos Governos, representadas no gráfico da direita.
 
